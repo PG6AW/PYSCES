@@ -1,0 +1,34 @@
+Deep down the ocean, lived a creature;
+The creature was called Pysces!
+"Nothing comes without sacrifice" Said the creature itself! And what's this all about?
+
+	Here is a tale of a future that never was, of a night that never dawned ...
+
+
+		*** After long last, all the things i decided to add to my old project (not in a stable release, but in a so-called beta indeed), Account/Password manager, are as follows:
+
+			+ Limited some username character
+			+ Somehow changed the looks of the Library to something more likeable
+			+ Better and more enhanced Book and User registration in the "Registry.py"
+			+ UPGRADED TO OUR BETA VERSION! ENJOY :)
+
+
+	Please note that this is a beta version and not a stable release but you can replace the files of the stable release of the project on my github with the corresponding files included here in the beta version:
+	
+
+	*** LINK TO THE STABLE RELEASE OF THE PROJECT:
+
+		https://github.com/PG6AW/PG67A-W/tree/main/Project_Library_v2.74
+
+		< SIMPLY REPLACE THE CORRESPONDING FILES IN THE ABOVE REPOSITORY WITH "MAINFILE__Book_Library.py" , "Registry.py" & "Treeview.py" FILES OF THIS REPOSITORY >
+
+
+
+
+	*** YOU CAN ALSO DOWNLOAD THE WHOLE STABLE RELEASE OF THE PROJECT WITH A SINGLE CLICK AND WITHOUT THE HASSLE OF DEALING WITH REPOSITORY FILES. GET ALL FROM HERE:
+
+		https://github.com/PG6AW/PG67AW/files/12738980/Project_Library_v2.74.zip
+
+
+
+HINT: There is a directory named "Additional Complementary Tools" and inside this directory, there's another directory named "Registry" and inside this, reside two files respectively named "Registry.py" and "Treeview.py"

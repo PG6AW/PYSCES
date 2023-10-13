@@ -1,0 +1,15 @@
+PLEASE NOTE THAT THIS IS A BETA VERSION OF THE PROJECT LIBRARY MANAGEMENT SYSTEM:
+
+
+
+	What's New?
+
+		+ Added a Treeview mode
+		+ Added two buttons that shows more in detail and with more stylish messagebox look, all details and info of a registered Book or User by either taking only the Book ID or the Username of that specific user.
+		+ Added a limitation of accepting special characters for the username
+		+ Better and more stylish-look to the dropdown menu of the Book Category section on the right pane that now contains a scrollbar too instead of a long single-scroll!
+
+
+	*** Replace the files of this project with the below repository correspondent to the files that are new in this repository with only the ones that need to be replaced:
+
+		 https://github.com/PG6AW/PG67A-W/tree/main/Project_Library_v2.74/Additional%20Complementary%20Tools/Registry

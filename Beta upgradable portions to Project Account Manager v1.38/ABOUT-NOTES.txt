@@ -1,0 +1,30 @@
+Deep down the ocean, lived a creature;
+The creature was called Pysces!
+"Nothing comes without sacrifice" Said the creature itself! And what's this all about?
+
+	Here is a tale of a future that never was, of a night that never dawned ...
+
+
+		*** After long last, all the things i decided to add to my old project (not in a stable release, but in a so-called beta indeed), Account/Password manager, are as follows:
+
+			+ Added a Captcha bot-detection system
+			+ Added a random delaying-capability after every login or register attempt to prevent flood on network systems (Which might sound bothersome to some folks!)
+			+ limited a selective range of special delimiter characters from being included in username syntax during registration process so that we can effectively forbid the use of irregular characters in usernames.
+			+ UPGRADED TO OUR BETA VERSION! ENJOY :)
+
+
+	Please note that this is a beta version and not a stable release but you can replace the files of the stable release of the project on my github with the corresponding files included here in the beta version:
+	
+
+	*** LINK TO THE STABLE RELEASE OF THE PROJECT:
+
+		https://github.com/PG6AW/PG67A-W/tree/main/Modern%20User%20Authenticator%20v1.38
+
+		< SIMPLY REPLACE THE CORRESPONDING FILES IN THE ABOVE REPOSITORY WITH "login.py" , "register.py" & "update_login_info.py" FILES OF THIS REPOSITORY >
+
+
+
+
+	*** YOU CAN ALSO DOWNLOAD THE WHOLE STABLE RELEASE OF THE PROJECT WITH A SINGLE CLICK AND WITHOUT THE HASSLE OF DEALING WITH REPOSITORY FILES. GET ALL FROM HERE:
+
+		https://github.com/PG6AW/PG67AW/files/12777926/Modern.User.Authenticator.v1.38.zip
